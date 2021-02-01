@@ -142,7 +142,7 @@
 			
 			<br/><br/>
 			
-			<a href="mailto:oi4565et@go.minnstate.edu" class="button" name="SendEmail">Send an Email!</a>
+			<a href="example@example.com" class="button" name="SendEmail">Send an Email!</a>
 			<br/>
 			<input type="submit" name="Submit" value="Submit" class="button"/>
 			<input type="reset" name="Reset" value="Reset" class="button"/>
